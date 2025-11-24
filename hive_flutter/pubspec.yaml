@@ -11,7 +11,10 @@ dependencies:
   flutter:
     sdk: flutter
 
-  hive: ^2.2.1
+  hive:
+    git:
+      url: ssh://git@github.com/scoringtech/hive_ce.git
+      ref: jmap
   path_provider: ^2.0.10
   path: ^1.8.2
 
