@@ -15,7 +15,7 @@ dependencies:
       url: ssh://git@github.com/scoringtech/hive_ce.git
       ref: jmap
       path: hive
-  analyzer: ^6.0.0
+  analyzer: ^7.0.0
   source_helper: ^1.1.0
 
 dev_dependencies:
